@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "angular-firebase-grid-dash"
+    "the grid": "friendlychat-4f368",
+    "default": "friendlychat-4f368"
   }
 }
